@@ -9,9 +9,10 @@
   "keywords": [],
   "author": "Rahmetjan Yolmuradov",
   "license": "ISC",
-  "description": "Базовый сервер Octagon — компетенция 1",
+  "description": "Octagon NodeJS — компетенции 1–3",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mysql2": "^3.24.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
